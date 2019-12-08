@@ -1,0 +1,40 @@
+div.top-bar{
+  background-color: #fcba03;
+  color: #e61102;
+}
+
+ul.menu{
+  background-color: #CC8916;
+}
+
+a{
+  color: #006aff;
+}
+
+body{
+  background-color: #FFAC1C;
+}
+
+.title{
+  font-family: 'Sulphur Point', sans-serif;
+  font-size: 40px;
+}
+
+h3{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 25px;
+}
+
+p{
+  font-family: 'Sulphur Point', sans-serif;
+  font-size: 15px;
+}
+
+div.box.callout.secondary{
+  background-color: #5CD6FF;
+}
+
+.button{
+  background-color: #998D4E;
+  box-shadow: 3px 3px black;
+}
